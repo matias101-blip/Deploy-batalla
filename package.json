@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.6.0",
+    "@fortawesome/free-solid-svg-icons": "^6.6.0",
+    "@fortawesome/react-fontawesome": "^0.2.2",
+    "@tabler/icons-react": "^3.19.0",
+    "@types/react-toastify": "^4.1.0",
+    "@types/socket.io-client": "^3.0.0",
+    "framer-motion": "^11.11.1",
+    "lucide-react": "^0.447.0",
+    "react-toastify": "^10.0.5",
+    "use-sound": "^4.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}

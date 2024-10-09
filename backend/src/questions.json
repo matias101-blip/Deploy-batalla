@@ -1,0 +1,1104 @@
+[
+    {
+        "Lv_categoria": "POO",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué principio de POO permite reutilizar código mediante clases base y derivadas?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Herencia", "Lb_esCorrecta": true},
+            {"Lv_texto": "Polimorfismo", "Lb_esCorrecta": false},
+            {"Lv_texto": "Encapsulamiento", "Lb_esCorrecta": false},
+            {"Lv_texto": "Abstracción", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "POO",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué característica de POO oculta los detalles de implementación al usuario?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Polimorfismo", "Lb_esCorrecta": false},
+            {"Lv_texto": "Herencia", "Lb_esCorrecta": false},
+            {"Lv_texto": "Abstracción", "Lb_esCorrecta": false},
+            {"Lv_texto": "Encapsulamiento", "Lb_esCorrecta": true}
+        ]
+    },
+    {
+        "Lv_categoria": "POO",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Cómo se llama el proceso mediante el cual un objeto puede tomar múltiples formas en POO?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Herencia", "Lb_esCorrecta": false},
+            {"Lv_texto": "Encapsulamiento", "Lb_esCorrecta": false},
+            {"Lv_texto": "Polimorfismo", "Lb_esCorrecta": true},
+            {"Lv_texto": "Abstracción", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "POO",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué concepto de POO permite representar objetos del mundo real en código?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Abstracción", "Lb_esCorrecta": true},
+            {"Lv_texto": "Herencia", "Lb_esCorrecta": false},
+            {"Lv_texto": "Polimorfismo", "Lb_esCorrecta": false},
+            {"Lv_texto": "Encapsulamiento", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "POO",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Cuál es la principal ventaja del uso de interfaces en POO?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Aumenta la complejidad del código", "Lb_esCorrecta": false},
+            {"Lv_texto": "Facilita la implementación del polimorfismo", "Lb_esCorrecta": true},
+            {"Lv_texto": "Reduce la reutilización del código", "Lb_esCorrecta": false},
+            {"Lv_texto": "Oculta el código al usuario", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "POO",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es el encapsulamiento en POO?",
+        "Lv_respuestas": [
+            {"Lv_texto": "La capacidad de un objeto de tomar múltiples formas", "Lb_esCorrecta": false},
+            {"Lv_texto": "La agrupación de datos y métodos que operan sobre esos datos en una clase", "Lb_esCorrecta": true},
+            {"Lv_texto": "La herencia de características de una clase padre", "Lb_esCorrecta": false},
+            {"Lv_texto": "La eliminación de dependencias en el código", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "POO",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué permite el polimorfismo en POO?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Que un mismo método tenga diferentes comportamientos", "Lb_esCorrecta": true},
+            {"Lv_texto": "Que una clase tenga múltiples constructores", "Lb_esCorrecta": false},
+            {"Lv_texto": "La herencia de métodos y atributos", "Lb_esCorrecta": false},
+            {"Lv_texto": "El acceso a los atributos privados", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "POO",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es una clase abstracta?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Una clase que no tiene métodos", "Lb_esCorrecta": false},
+            {"Lv_texto": "Una clase que solo contiene atributos", "Lb_esCorrecta": false},
+            {"Lv_texto": "Una clase sin constructor", "Lb_esCorrecta": false},
+            {"Lv_texto": "Una clase que no puede ser instanciada directamente", "Lb_esCorrecta": true}
+        ]
+    },
+    {
+        "Lv_categoria": "POO",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es la sobrecarga de métodos en POO?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Reescribir el comportamiento de un método heredado", "Lb_esCorrecta": false},
+            {"Lv_texto": "Crear métodos con diferentes niveles de acceso", "Lb_esCorrecta": false},
+            {"Lv_texto": "Definir múltiples métodos con el mismo nombre pero diferentes parámetros", "Lb_esCorrecta": true},
+            {"Lv_texto": "Implementar múltiples interfaces en una clase", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "POO",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es un constructor en una clase?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Un método especial utilizado para inicializar objetos", "Lb_esCorrecta": true},
+            {"Lv_texto": "Una variable estática de una clase", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un método que solo puede ser llamado una vez", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un atributo constante en la clase", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "POO",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Cuál es la diferencia entre una clase y un objeto en POO?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Un objeto es una plantilla, una clase es una instancia de ese objeto", "Lb_esCorrecta": false},
+            {"Lv_texto": "Una clase es un tipo de variable, un objeto es un método", "Lb_esCorrecta": false},
+            {"Lv_texto": "Una clase es una plantilla, un objeto es una instancia de esa clase", "Lb_esCorrecta": true},
+            {"Lv_texto": "No hay diferencia, ambos son lo mismo", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "POO",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué permite la herencia en POO?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Que una clase tenga múltiples constructores", "Lb_esCorrecta": false},
+            {"Lv_texto": "Que una clase pueda heredar métodos y atributos de otra clase", "Lb_esCorrecta": true},
+            {"Lv_texto": "Que una clase pueda acceder a los atributos privados de otra", "Lb_esCorrecta": false},
+            {"Lv_texto": "Que una clase sea instanciada sin un constructor", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "POO",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Cuál de los siguientes NO es un principio de POO?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Aislacionismo", "Lb_esCorrecta": true},
+            {"Lv_texto": "Polimorfismo", "Lb_esCorrecta": false},
+            {"Lv_texto": "Herencia", "Lb_esCorrecta": false},
+            {"Lv_texto": "Encapsulamiento", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "POO",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué permite la sobreescritura de métodos en POO?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Crear nuevos métodos con el mismo nombre pero diferentes parámetros", "Lb_esCorrecta": false},
+            {"Lv_texto": "Permitir la herencia múltiple", "Lb_esCorrecta": false},
+            {"Lv_texto": "Acceder a métodos privados de la clase padre", "Lb_esCorrecta": false},
+            {"Lv_texto": "Modificar el comportamiento de un método heredado en una clase hija", "Lb_esCorrecta": true}
+        ]
+    },
+    {
+        "Lv_categoria": "POO",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es un método estático en POO?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Un método que pertenece a la clase y no a las instancias", "Lb_esCorrecta": true},
+            {"Lv_texto": "Un método que no puede ser sobreescrito", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un método que siempre retorna el mismo valor", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un método que inicializa un objeto", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "POO",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es una excepción en POO?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Un valor devuelto por una función cuando no se encuentra un resultado", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un caso especial de herencia", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un evento anómalo que ocurre durante la ejecución de un programa", "Lb_esCorrecta": true},
+            {"Lv_texto": "Una interfaz que no ha sido implementada", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "POO",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es una propiedad en POO?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Una variable global en una clase", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un método privado en una clase", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un método que se usa para acceder a los datos de una clase", "Lb_esCorrecta": true},
+            {"Lv_texto": "Un método utilizado para inicializar un objeto", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "POO",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es el concepto de 'estado' en POO?",
+        "Lv_respuestas": [
+            {"Lv_texto": "La cantidad de métodos que tiene un objeto", "Lb_esCorrecta": false},
+            {"Lv_texto": "La colección de valores de los atributos de un objeto", "Lb_esCorrecta": true},
+            {"Lv_texto": "El tipo de datos que almacena un objeto", "Lb_esCorrecta": false},
+            {"Lv_texto": "El comportamiento de un objeto en el tiempo", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "POO",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Cuál es el propósito de los métodos 'getters' y 'setters' en POO?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Modificar el comportamiento de los métodos heredados", "Lb_esCorrecta": false},
+            {"Lv_texto": "Evitar la instanciación de una clase", "Lb_esCorrecta": false},
+            {"Lv_texto": "Permitir la sobreescritura de métodos", "Lb_esCorrecta": false},
+            {"Lv_texto": "Proporcionar acceso controlado a los atributos de una clase", "Lb_esCorrecta": true}
+        ]
+    },
+    {
+        "Lv_categoria": "POO",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es una instancia en POO?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Un objeto creado a partir de una clase", "Lb_esCorrecta": true},
+            {"Lv_texto": "Una clase que hereda de otra clase", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un método que pertenece a la clase", "Lb_esCorrecta": false},
+            {"Lv_texto": "Una interfaz implementada en una clase", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "POO",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es el principio de responsabilidad única en POO?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Cada método debe tener un único parámetro", "Lb_esCorrecta": false},
+            {"Lv_texto": "Cada clase debe tener una única responsabilidad o razón para cambiar", "Lb_esCorrecta": true},
+            {"Lv_texto": "Cada objeto debe ser instanciado una sola vez", "Lb_esCorrecta": false},
+            {"Lv_texto": "Cada clase debe heredar solo de una clase base", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "POO",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es una clase derivada en POO?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Una clase que hereda de otra clase llamada clase base", "Lb_esCorrecta": true},
+            {"Lv_texto": "Una clase que no puede ser instanciada", "Lb_esCorrecta": false},
+            {"Lv_texto": "Una clase que solo contiene métodos abstractos", "Lb_esCorrecta": false},
+            {"Lv_texto": "Una clase que implementa múltiples interfaces", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "POO",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es una interfaz en POO?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Un contrato que define qué métodos debe implementar una clase", "Lb_esCorrecta": true},
+            {"Lv_texto": "Una clase abstracta con métodos predeterminados", "Lb_esCorrecta": false},
+            {"Lv_texto": "Una clase que no puede ser instanciada", "Lb_esCorrecta": false},
+            {"Lv_texto": "Una plantilla para definir objetos", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "POO",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es un atributo en POO?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Un método que pertenece a una clase", "Lb_esCorrecta": false},
+            {"Lv_texto": "Una interfaz que se implementa en una clase", "Lb_esCorrecta": false},
+            {"Lv_texto": "Una variable que pertenece a una clase", "Lb_esCorrecta": true},
+            {"Lv_texto": "Un tipo de dato que define una clase", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "POO",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es una instancia de clase?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Una clase abstracta", "Lb_esCorrecta": false},
+            {"Lv_texto": "Una interfaz implementada en una clase", "Lb_esCorrecta": false},
+            {"Lv_texto": "Una clase que hereda de otra clase", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un objeto creado a partir de una clase", "Lb_esCorrecta": true}
+        ]
+    },
+    {
+        "Lv_categoria": "Sistemas Operativos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es un sistema operativo?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Un programa que gestiona el hardware y software de un ordenador", "Lb_esCorrecta": true},
+            {"Lv_texto": "Un compilador de programas", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un lenguaje de programación", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un dispositivo de hardware", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "Sistemas Operativos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es la memoria virtual?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Un tipo de memoria física", "Lb_esCorrecta": false},
+            {"Lv_texto": "La combinación de memoria RAM y espacio en disco", "Lb_esCorrecta": true},
+            {"Lv_texto": "Una caché de alto rendimiento", "Lb_esCorrecta": false},
+            {"Lv_texto": "Una memoria de solo lectura", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "Sistemas Operativos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es un kernel?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Una interfaz gráfica", "Lb_esCorrecta": false},
+            {"Lv_texto": "El núcleo del sistema operativo", "Lb_esCorrecta": true},
+            {"Lv_texto": "Un software de ofimática", "Lb_esCorrecta": false},
+            {"Lv_texto": "Una unidad de almacenamiento", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "Sistemas Operativos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Cuál es la función del gestor de procesos?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Gestionar la ejecución de los procesos", "Lb_esCorrecta": true},
+            {"Lv_texto": "Controlar el acceso a la memoria", "Lb_esCorrecta": false},
+            {"Lv_texto": "Monitorear la velocidad del procesador", "Lb_esCorrecta": false},
+            {"Lv_texto": "Gestionar las conexiones de red", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "Sistemas Operativos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es el multitasking?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Ejecutar múltiples procesos al mismo tiempo", "Lb_esCorrecta": true},
+            {"Lv_texto": "Un proceso de almacenamiento", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un tipo de archivo del sistema", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un método de encriptación", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "Sistemas Operativos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es el sistema de archivos?",
+        "Lv_respuestas": [
+            {"Lv_texto": "El sistema que gestiona los procesos", "Lb_esCorrecta": false},
+            {"Lv_texto": "El sistema que organiza y almacena archivos en un dispositivo", "Lb_esCorrecta": true},
+            {"Lv_texto": "El hardware que gestiona la memoria", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un programa que controla los drivers", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "Sistemas Operativos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es un proceso en estado 'bloqueado'?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Un proceso que está esperando por un recurso", "Lb_esCorrecta": true},
+            {"Lv_texto": "Un proceso que está en ejecución", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un proceso que no tiene permisos de usuario", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un proceso terminado", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "Sistemas Operativos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es la planificación por prioridad?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Una forma de almacenar archivos en el sistema", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un método de recuperación de datos", "Lb_esCorrecta": false},
+            {"Lv_texto": "Una técnica de encriptación", "Lb_esCorrecta": false},
+            {"Lv_texto": "Una técnica para ejecutar los procesos con mayor prioridad primero", "Lb_esCorrecta": true}
+        ]
+    },
+    {
+        "Lv_categoria": "Sistemas Operativos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Cuál de estos es un sistema operativo?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Oracle", "Lb_esCorrecta": false},
+            {"Lv_texto": "Java", "Lb_esCorrecta": false},
+            {"Lv_texto": "HTTP", "Lb_esCorrecta": false},
+            {"Lv_texto": "Linux", "Lb_esCorrecta": true}
+        ]
+    },
+    {
+        "Lv_categoria": "Sistemas Operativos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué significa la sigla 'CPU'?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Computer Personal Unit", "Lb_esCorrecta": false},
+            {"Lv_texto": "Central Personal Unit", "Lb_esCorrecta": false},
+            {"Lv_texto": "Computer Processing Unit", "Lb_esCorrecta": false},
+            {"Lv_texto": "Central Processing Unit", "Lb_esCorrecta": true}
+        ]
+    },
+    {
+        "Lv_categoria": "Sistemas Operativos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es el tiempo de respuesta?",
+        "Lv_respuestas": [
+            {"Lv_texto": "El tiempo que tarda en iniciar un proceso", "Lb_esCorrecta": false},
+            {"Lv_texto": "El tiempo que tarda en cargar un archivo", "Lb_esCorrecta": false},
+            {"Lv_texto": "El tiempo que dura el proceso en memoria", "Lb_esCorrecta": false},
+            {"Lv_texto": "El tiempo que tarda el sistema en responder a una solicitud", "Lb_esCorrecta": true}
+        ]
+    },
+    {
+        "Lv_categoria": "Sistemas Operativos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es una interrupción?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Una señal que pausa temporalmente el proceso en ejecución", "Lb_esCorrecta": true},
+            {"Lv_texto": "Una falla del sistema operativo", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un cierre inesperado del sistema", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un error de hardware", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "Sistemas Operativos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es un sistema operativo en tiempo real?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Un sistema que funciona sin errores", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un sistema que utiliza múltiples núcleos", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un sistema que responde a eventos en un tiempo garantizado", "Lb_esCorrecta": true},
+            {"Lv_texto": "Un sistema de procesamiento de archivos", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "Sistemas Operativos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es el espacio de usuario?",
+        "Lv_respuestas": [
+            {"Lv_texto": "La parte del sistema operativo donde los usuarios almacenan archivos", "Lb_esCorrecta": false},
+            {"Lv_texto": "La memoria reservada para el sistema operativo", "Lb_esCorrecta": false},
+            {"Lv_texto": "El área de memoria donde se ejecutan las aplicaciones de usuario", "Lb_esCorrecta": true},
+            {"Lv_texto": "El espacio en disco para almacenar programas", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "Sistemas Operativos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es un archivo de paginación?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Un archivo que guarda registros del sistema", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un archivo comprimido", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un archivo usado para ampliar la memoria RAM", "Lb_esCorrecta": true},
+            {"Lv_texto": "Un archivo ejecutable", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "Sistemas Operativos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es un thread?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Un hilo de ejecución de un proceso", "Lb_esCorrecta": true},
+            {"Lv_texto": "Una parte de la memoria cache", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un tipo de archivo del sistema", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un dispositivo de entrada", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "Sistemas Operativos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es la fragmentación en un sistema operativo?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Un proceso que separa los archivos en múltiples secciones", "Lb_esCorrecta": false},
+            {"Lv_texto": "La división de la memoria en bloques no contiguos", "Lb_esCorrecta": true},
+            {"Lv_texto": "La reducción del tamaño de los archivos", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un error del sistema", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "Sistemas Operativos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es la caché en un sistema operativo?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Una memoria de alta velocidad que almacena datos temporalmente", "Lb_esCorrecta": true},
+            {"Lv_texto": "Una parte del sistema de archivos", "Lb_esCorrecta": false},
+            {"Lv_texto": "Una técnica de compresión", "Lb_esCorrecta": false},
+            {"Lv_texto": "Una aplicación del sistema", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "Sistemas Operativos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es un sistema operativo monolítico?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Un sistema que utiliza múltiples núcleos", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un sistema distribuido", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un sistema donde todos los componentes están integrados en un único programa", "Lb_esCorrecta": true},
+            {"Lv_texto": "Un sistema en tiempo real", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "Sistemas Operativos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es el tiempo de conmutación de contexto?",
+        "Lv_respuestas": [
+            {"Lv_texto": "El tiempo que toma cambiar de un proceso a otro", "Lb_esCorrecta": true},
+            {"Lv_texto": "El tiempo de respuesta del sistema", "Lb_esCorrecta": false},
+            {"Lv_texto": "El tiempo que tarda un proceso en iniciar", "Lb_esCorrecta": false},
+            {"Lv_texto": "El tiempo que tarda en cargar un archivo", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "Sistemas Operativos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es el modo kernel en un sistema operativo?",
+        "Lv_respuestas": [
+            {"Lv_texto": "El modo en el que se ejecutan las tareas críticas del sistema", "Lb_esCorrecta": true},
+            {"Lv_texto": "El modo en el que se ejecutan las aplicaciones de usuario", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un método de encriptación", "Lb_esCorrecta": false},
+            {"Lv_texto": "Una técnica de seguridad", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "Sistemas Operativos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es la fragmentación interna?",
+        "Lv_respuestas": [
+            {"Lv_texto": "División de un archivo en múltiples partes", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un tipo de error en la RAM", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un método de compresión", "Lb_esCorrecta": false},
+            {"Lv_texto": "Espacio desperdiciado dentro de bloques de memoria asignados", "Lb_esCorrecta": true}
+        ]
+    },
+    {
+        "Lv_categoria": "Sistemas Operativos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es un sistema operativo distribuido?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Un sistema que se ejecuta en un solo dispositivo", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un sistema con múltiples particiones de disco", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un sistema con memoria compartida", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un sistema que gestiona múltiples computadoras en red", "Lb_esCorrecta": true}
+        ]
+    },
+    {
+        "Lv_categoria": "Sistemas Operativos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es la paginación?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Una técnica para gestionar la memoria dividiéndola en páginas", "Lb_esCorrecta": true},
+            {"Lv_texto": "Un proceso para gestionar archivos", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un tipo de fragmentación", "Lb_esCorrecta": false},
+            {"Lv_texto": "Una técnica para manejar procesos", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "Sistemas Operativos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es el 'scheduling' en un sistema operativo?",
+        "Lv_respuestas": [
+            {"Lv_texto": "La creación de archivos en el sistema", "Lb_esCorrecta": false},
+            {"Lv_texto": "La planificación de la ejecución de procesos", "Lb_esCorrecta": true},
+            {"Lv_texto": "La división de memoria en bloques", "Lb_esCorrecta": false},
+            {"Lv_texto": "El manejo de la red", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "Bases de Datos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es SQL?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Un lenguaje de consulta para bases de datos", "Lb_esCorrecta": true},
+            {"Lv_texto": "Un sistema operativo", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un lenguaje de programación", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un servidor web", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "Bases de Datos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es una base de datos relacional?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Una base de datos estructurada en tablas", "Lb_esCorrecta": true},
+            {"Lv_texto": "Una base de datos no estructurada", "Lb_esCorrecta": false},
+            {"Lv_texto": "Una base de datos distribuida", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un sistema de archivos", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "Bases de Datos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué significa ACID en bases de datos?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Atomicidad, Consistencia, Aislamiento, Durabilidad", "Lb_esCorrecta": true},
+            {"Lv_texto": "Agilidad, Confiabilidad, Integridad, Distribución", "Lb_esCorrecta": false},
+            {"Lv_texto": "Automatización, Concurrencia, Integridad, Durabilidad", "Lb_esCorrecta": false},
+            {"Lv_texto": "Acceso, Control, Integridad, Durabilidad", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "Bases de Datos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es un índice en una base de datos?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Una estructura que mejora la velocidad de las consultas", "Lb_esCorrecta": true},
+            {"Lv_texto": "Un tipo de archivo de la base de datos", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un tipo de registro", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un lenguaje de consulta", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "Bases de Datos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es una clave primaria?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Un campo que identifica de forma única una fila", "Lb_esCorrecta": true},
+            {"Lv_texto": "Un campo que almacena datos no repetidos", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un campo que puede ser nulo", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un campo que almacena índices", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "Bases de Datos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es una transacción en una base de datos?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Una secuencia de operaciones que se ejecutan como una unidad", "Lb_esCorrecta": true},
+            {"Lv_texto": "Una consulta de datos", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un comando de inserción", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un procedimiento almacenado", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "Bases de Datos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es una vista en SQL?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Una consulta guardada como un objeto de base de datos", "Lb_esCorrecta": true},
+            {"Lv_texto": "Un tipo de tabla temporal", "Lb_esCorrecta": false},
+            {"Lv_texto": "Una clave foránea", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un índice", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "Bases de Datos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es la normalización en bases de datos?",
+        "Lv_respuestas": [
+            {"Lv_texto": "El proceso de eliminar redundancias de datos", "Lb_esCorrecta": true},
+            {"Lv_texto": "La creación de claves foráneas", "Lb_esCorrecta": false},
+            {"Lv_texto": "El proceso de crear índices", "Lb_esCorrecta": false},
+            {"Lv_texto": "La eliminación de claves primarias", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "Bases de Datos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué significa JOIN en SQL?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Combinar datos de múltiples tablas", "Lb_esCorrecta": true},
+            {"Lv_texto": "Eliminar datos de una tabla", "Lb_esCorrecta": false},
+            {"Lv_texto": "Agregar datos a una tabla", "Lb_esCorrecta": false},
+            {"Lv_texto": "Actualizar datos en una tabla", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "Bases de Datos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es una clave foránea?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Un campo que crea una relación entre dos tablas", "Lb_esCorrecta": true},
+            {"Lv_texto": "Un campo que almacena índices", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un tipo de restricción", "Lb_esCorrecta": false},
+            {"Lv_texto": "Una clave única", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "Bases de Datos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es una tabla en una base de datos relacional?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Un conjunto de claves primarias", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un conjunto de registros y columnas", "Lb_esCorrecta": true},
+            {"Lv_texto": "Un tipo de archivo", "Lb_esCorrecta": false},
+            {"Lv_texto": "Una clave foránea", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "Bases de Datos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es un trigger en bases de datos?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Un procedimiento almacenado", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un evento que se ejecuta automáticamente ante cambios en una tabla", "Lb_esCorrecta": true},
+            {"Lv_texto": "Una restricción de clave", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un tipo de índice", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "Bases de Datos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué comando en SQL se utiliza para eliminar una tabla?",
+        "Lv_respuestas": [
+            {"Lv_texto": "DROP DATABASE", "Lb_esCorrecta": false},
+            {"Lv_texto": "DROP TABLE", "Lb_esCorrecta": true},
+            {"Lv_texto": "DELETE TABLE", "Lb_esCorrecta": false},
+            {"Lv_texto": "REMOVE TABLE", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "Bases de Datos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es una consulta SELECT en SQL?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Una instrucción para insertar datos", "Lb_esCorrecta": false},
+            {"Lv_texto": "Una instrucción para recuperar datos", "Lb_esCorrecta": true},
+            {"Lv_texto": "Una instrucción para eliminar datos", "Lb_esCorrecta": false},
+            {"Lv_texto": "Una instrucción para modificar datos", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "Bases de Datos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es un Data Warehouse?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Un tipo de base de datos transaccional", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un sistema para almacenar y analizar grandes volúmenes de datos", "Lb_esCorrecta": true},
+            {"Lv_texto": "Una base de datos de archivos", "Lb_esCorrecta": false},
+            {"Lv_texto": "Una base de datos relacional", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "Bases de Datos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es una base de datos NoSQL?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Una base de datos basada en SQL", "Lb_esCorrecta": false},
+            {"Lv_texto": "Una base de datos solo de lectura", "Lb_esCorrecta": false},
+            {"Lv_texto": "Una base de datos que no usa tablas", "Lb_esCorrecta": true},
+            {"Lv_texto": "Una base de datos distribuida", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "Bases de Datos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es una clave única?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Una clave que puede tener valores repetidos", "Lb_esCorrecta": false},
+            {"Lv_texto": "Una clave que identifica filas duplicadas", "Lb_esCorrecta": false},
+            {"Lv_texto": "Una clave que garantiza que no hay valores repetidos", "Lb_esCorrecta": true},
+            {"Lv_texto": "Una clave primaria alternativa", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "Bases de Datos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es una transacción ACID?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Una transacción que no puede fallar", "Lb_esCorrecta": false},
+            {"Lv_texto": "Una transacción distribuida", "Lb_esCorrecta": false},
+            {"Lv_texto": "Una transacción que cumple con las propiedades ACID", "Lb_esCorrecta": true},
+            {"Lv_texto": "Una transacción en un Data Warehouse", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "Bases de Datos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué comando en SQL se usa para actualizar datos?",
+        "Lv_respuestas": [
+            {"Lv_texto": "INSERT INTO", "Lb_esCorrecta": false},
+            {"Lv_texto": "DELETE", "Lb_esCorrecta": false},
+            {"Lv_texto": "UPDATE", "Lb_esCorrecta": true},
+            {"Lv_texto": "SELECT", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "Bases de Datos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es una base de datos distribuida?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Una base de datos almacenada en un solo servidor", "Lb_esCorrecta": false},
+            {"Lv_texto": "Una base de datos local", "Lb_esCorrecta": false},
+            {"Lv_texto": "Una base de datos almacenada en múltiples ubicaciones", "Lb_esCorrecta": true},
+            {"Lv_texto": "Una base de datos no relacional", "Lb_esCorrecta": false}
+        ]
+    },
+    {
+        "Lv_categoria": "Bases de Datos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué comando en SQL se utiliza para insertar datos?",
+        "Lv_respuestas": [
+            {"Lv_texto": "SELECT", "Lb_esCorrecta": false},
+            {"Lv_texto": "UPDATE", "Lb_esCorrecta": false},
+            {"Lv_texto": "DELETE", "Lb_esCorrecta": false},
+            {"Lv_texto": "INSERT INTO", "Lb_esCorrecta": true}
+        ]
+    },
+    {
+        "Lv_categoria": "Bases de Datos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es una clave compuesta?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Una clave primaria única", "Lb_esCorrecta": false},
+            {"Lv_texto": "Una clave alternativa", "Lb_esCorrecta": false},
+            {"Lv_texto": "Una clave que se usa para identificar columnas", "Lb_esCorrecta": false},
+            {"Lv_texto": "Una clave formada por múltiples columnas", "Lb_esCorrecta": true}
+        ]
+    },
+    {
+        "Lv_categoria": "Bases de Datos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es un procedimiento almacenado?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Una consulta temporal", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un comando SQL directo", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un índice de tabla", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un conjunto de instrucciones SQL precompiladas", "Lb_esCorrecta": true}
+        ]
+    },
+    {
+        "Lv_categoria": "Bases de Datos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es la replicación de datos?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Un tipo de compresión de datos", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un tipo de encriptación", "Lb_esCorrecta": false},
+            {"Lv_texto": "Una técnica para unir tablas", "Lb_esCorrecta": false},
+            {"Lv_texto": "Un proceso para copiar datos entre bases de datos", "Lb_esCorrecta": true}
+        ]
+    },
+    {
+        "Lv_categoria": "Bases de Datos",
+        "Ln_nivel": 1,
+        "Lv_pregunta": "¿Qué es una base de datos en memoria?",
+        "Lv_respuestas": [
+            {"Lv_texto": "Una base de datos almacenada en disco duro", "Lb_esCorrecta": false},
+            {"Lv_texto": "Una base de datos relacional", "Lb_esCorrecta": false},
+            {"Lv_texto": "Una base de datos no estructurada", "Lb_esCorrecta": false},
+            {"Lv_texto": "Una base de datos almacenada en la memoria RAM", "Lb_esCorrecta": true}
+        ]
+    },
+        {
+            "Lv_categoria": "Arquitectura y Diseño de Software",
+            "Ln_nivel": 1,
+            "Lv_pregunta": "¿Qué es un patrón de diseño?",
+            "Lv_respuestas": [
+                {"Lv_texto": "Una solución general a un problema común en diseño de software", "Lb_esCorrecta": true},
+                {"Lv_texto": "Un diagrama de flujo", "Lb_esCorrecta": false},
+                {"Lv_texto": "Una base de datos de diseños", "Lb_esCorrecta": false},
+                {"Lv_texto": "Un algoritmo de programación", "Lb_esCorrecta": false}
+            ]
+        },
+        {
+            "Lv_categoria": "Arquitectura y Diseño de Software",
+            "Ln_nivel": 1,
+            "Lv_pregunta": "¿Qué significa DRY en diseño de software?",
+            "Lv_respuestas": [
+                {"Lv_texto": "Don’t Repeat Yourself", "Lb_esCorrecta": true},
+                {"Lv_texto": "Design Reuse Yield", "Lb_esCorrecta": false},
+                {"Lv_texto": "Do Reuse Yearly", "Lb_esCorrecta": false},
+                {"Lv_texto": "Dynamic Refactor Yield", "Lb_esCorrecta": false}
+            ]
+        },
+        {
+            "Lv_categoria": "Arquitectura y Diseño de Software",
+            "Ln_nivel": 1,
+            "Lv_pregunta": "¿Cuál es el objetivo de una arquitectura en capas?",
+            "Lv_respuestas": [
+                {"Lv_texto": "Separar responsabilidades en distintas capas", "Lb_esCorrecta": true},
+                {"Lv_texto": "Optimizar el acceso a la memoria", "Lb_esCorrecta": false},
+                {"Lv_texto": "Reducir el tiempo de compilación", "Lb_esCorrecta": false},
+                {"Lv_texto": "Aumentar el tamaño del código", "Lb_esCorrecta": false}
+            ]
+        },
+        {
+            "Lv_categoria": "Arquitectura y Diseño de Software",
+            "Ln_nivel": 1,
+            "Lv_pregunta": "¿Qué es una arquitectura de microservicios?",
+            "Lv_respuestas": [
+                {"Lv_texto": "Una arquitectura que separa una aplicación en servicios pequeños e independientes", "Lb_esCorrecta": true},
+                {"Lv_texto": "Un tipo de diseño monolítico", "Lb_esCorrecta": false},
+                {"Lv_texto": "Una técnica de manejo de errores", "Lb_esCorrecta": false},
+                {"Lv_texto": "Una estrategia de optimización de recursos", "Lb_esCorrecta": false}
+            ]
+        },
+        {
+            "Lv_categoria": "Arquitectura y Diseño de Software",
+            "Ln_nivel": 1,
+            "Lv_pregunta": "¿Qué representa el patrón de diseño 'Factory'?",
+            "Lv_respuestas": [
+                {"Lv_texto": "Un patrón que facilita la creación de objetos sin especificar el tipo exacto", "Lb_esCorrecta": true},
+                {"Lv_texto": "Una fábrica que genera software", "Lb_esCorrecta": false},
+                {"Lv_texto": "Un proceso para automatizar el diseño", "Lb_esCorrecta": false},
+                {"Lv_texto": "Un sistema de administración de proyectos", "Lb_esCorrecta": false}
+            ]
+        },
+        {
+            "Lv_categoria": "Arquitectura y Diseño de Software",
+            "Ln_nivel": 1,
+            "Lv_pregunta": "¿Qué es la arquitectura MVC?",
+            "Lv_respuestas": [
+                {"Lv_texto": "Una arquitectura de software orientada a microservicios", "Lb_esCorrecta": false},
+                {"Lv_texto": "Una arquitectura que separa el modelo, la vista y el controlador", "Lb_esCorrecta": true},
+                {"Lv_texto": "Un patrón de diseño para bases de datos", "Lb_esCorrecta": false},
+                {"Lv_texto": "Un sistema de control de versiones", "Lb_esCorrecta": false}
+            ]
+        },
+        {
+            "Lv_categoria": "Arquitectura y Diseño de Software",
+            "Ln_nivel": 1,
+            "Lv_pregunta": "¿Qué describe el principio de responsabilidad única en SOLID?",
+            "Lv_respuestas": [
+                {"Lv_texto": "Una clase debe manejar múltiples responsabilidades", "Lb_esCorrecta": false},
+                {"Lv_texto": "Una clase debe tener una única responsabilidad", "Lb_esCorrecta": true},
+                {"Lv_texto": "Un sistema debe estar dividido en múltiples capas", "Lb_esCorrecta": false},
+                {"Lv_texto": "Un sistema debe tener una sola entrada y salida", "Lb_esCorrecta": false}
+            ]
+        },
+        {
+            "Lv_categoria": "Arquitectura y Diseño de Software",
+            "Ln_nivel": 1,
+            "Lv_pregunta": "¿Qué es el patrón 'Observer'?",
+            "Lv_respuestas": [
+                {"Lv_texto": "Un patrón que facilita la creación de objetos", "Lb_esCorrecta": false},
+                {"Lv_texto": "Un patrón que define una relación uno a muchos entre objetos", "Lb_esCorrecta": true},
+                {"Lv_texto": "Un patrón que optimiza la ejecución de código", "Lb_esCorrecta": false},
+                {"Lv_texto": "Un patrón para gestionar bases de datos", "Lb_esCorrecta": false}
+            ]
+        },
+        {
+            "Lv_categoria": "Arquitectura y Diseño de Software",
+            "Ln_nivel": 1,
+            "Lv_pregunta": "¿Qué es una API?",
+            "Lv_respuestas": [
+                {"Lv_texto": "Un sistema operativo", "Lb_esCorrecta": false},
+                {"Lv_texto": "Una interfaz que permite la comunicación entre diferentes sistemas", "Lb_esCorrecta": true},
+                {"Lv_texto": "Un lenguaje de programación", "Lb_esCorrecta": false},
+                {"Lv_texto": "Un tipo de base de datos", "Lb_esCorrecta": false}
+            ]
+        },
+        {
+            "Lv_categoria": "Arquitectura y Diseño de Software",
+            "Ln_nivel": 1,
+            "Lv_pregunta": "¿Qué describe el principio 'Abierto/Cerrado' en SOLID?",
+            "Lv_respuestas": [
+                {"Lv_texto": "Las clases deben ser completamente abiertas para modificación", "Lb_esCorrecta": false},
+                {"Lv_texto": "Las clases deben estar abiertas para extensión, pero cerradas para modificación", "Lb_esCorrecta": true},
+                {"Lv_texto": "Un sistema debe estar cerrado para nuevas funcionalidades", "Lb_esCorrecta": false},
+                {"Lv_texto": "Un programa debe ser independiente de su entorno", "Lb_esCorrecta": false}
+            ]
+        },
+        {
+            "Lv_categoria": "Arquitectura y Diseño de Software",
+            "Ln_nivel": 1,
+            "Lv_pregunta": "¿Qué es un caso de uso en diseño de software?",
+            "Lv_respuestas": [
+                {"Lv_texto": "Un método de prueba de software", "Lb_esCorrecta": false},
+                {"Lv_texto": "Un documento de análisis de requerimientos", "Lb_esCorrecta": false},
+                {"Lv_texto": "Una descripción de cómo un usuario interactúa con el sistema", "Lb_esCorrecta": true},
+                {"Lv_texto": "Un algoritmo de búsqueda de datos", "Lb_esCorrecta": false}
+            ]
+        },
+        {
+            "Lv_categoria": "Arquitectura y Diseño de Software",
+            "Ln_nivel": 1,
+            "Lv_pregunta": "¿Qué patrón de diseño facilita el intercambio de mensajes entre objetos sin necesidad de que estén directamente conectados?",
+            "Lv_respuestas": [
+                {"Lv_texto": "Factory", "Lb_esCorrecta": false},
+                {"Lv_texto": "Singleton", "Lb_esCorrecta": false},
+                {"Lv_texto": "Mediator", "Lb_esCorrecta": true},
+                {"Lv_texto": "Strategy", "Lb_esCorrecta": false}
+            ]
+        },
+        {
+            "Lv_categoria": "Arquitectura y Diseño de Software",
+            "Ln_nivel": 1,
+            "Lv_pregunta": "¿Qué es el patrón de diseño 'Adapter'?",
+            "Lv_respuestas": [
+                {"Lv_texto": "Un patrón que restringe la creación de objetos", "Lb_esCorrecta": false},
+                {"Lv_texto": "Un patrón que facilita la separación de capas", "Lb_esCorrecta": false},
+                {"Lv_texto": "Un patrón que permite que una interfaz sea compatible con otra", "Lb_esCorrecta": true},
+                {"Lv_texto": "Un patrón que gestiona eventos en tiempo real", "Lb_esCorrecta": false}
+            ]
+        },
+        {
+            "Lv_categoria": "Arquitectura y Diseño de Software",
+            "Ln_nivel": 1,
+            "Lv_pregunta": "¿Qué es el patrón 'Strategy'?",
+            "Lv_respuestas": [
+                {"Lv_texto": "Un patrón que controla el acceso a recursos", "Lb_esCorrecta": false},
+                {"Lv_texto": "Un patrón que optimiza el uso de memoria", "Lb_esCorrecta": false},
+                {"Lv_texto": "Un patrón que permite cambiar algoritmos en tiempo de ejecución", "Lb_esCorrecta": true},
+                {"Lv_texto": "Un patrón que organiza la estructura de los datos", "Lb_esCorrecta": false}
+            ]
+        },
+        {
+            "Lv_categoria": "Arquitectura y Diseño de Software",
+            "Ln_nivel": 1,
+            "Lv_pregunta": "¿Qué es un servicio REST?",
+            "Lv_respuestas": [
+                {"Lv_texto": "Un servicio que gestiona bases de datos", "Lb_esCorrecta": false},
+                {"Lv_texto": "Un sistema operativo", "Lb_esCorrecta": false},
+                {"Lv_texto": "Un servicio que sigue principios de arquitectura RESTful", "Lb_esCorrecta": true},
+                {"Lv_texto": "Un lenguaje de programación", "Lb_esCorrecta": false}
+            ]
+        },
+        {
+            "Lv_categoria": "Arquitectura y Diseño de Software",
+            "Ln_nivel": 1,
+            "Lv_pregunta": "¿Qué es una arquitectura monolítica?",
+            "Lv_respuestas": [
+                {"Lv_texto": "Una arquitectura donde todos los componentes están distribuidos", "Lb_esCorrecta": false},
+                {"Lv_texto": "Una arquitectura basada en microservicios", "Lb_esCorrecta": false},
+                {"Lv_texto": "Una arquitectura que separa todas las funcionalidades", "Lb_esCorrecta": false},
+                {"Lv_texto": "Una arquitectura donde todos los componentes están integrados en una única aplicación", "Lb_esCorrecta": true}
+            ]
+        },
+        {
+            "Lv_categoria": "Arquitectura y Diseño de Software",
+            "Ln_nivel": 1,
+            "Lv_pregunta": "¿Qué es el principio de inversión de dependencia en SOLID?",
+            "Lv_respuestas": [
+                {"Lv_texto": "Las clases deben depender de detalles específicos", "Lb_esCorrecta": false},
+                {"Lv_texto": "Las clases deben ser independientes entre sí", "Lb_esCorrecta": false},
+                {"Lv_texto": "Los detalles de bajo nivel deben depender de los de alto nivel", "Lb_esCorrecta": false},
+                {"Lv_texto": "Los módulos de alto nivel no deben depender de módulos de bajo nivel", "Lb_esCorrecta": true}
+            ]
+        },
+        {
+            "Lv_categoria": "Arquitectura y Diseño de Software",
+            "Ln_nivel": 1,
+            "Lv_pregunta": "¿Qué es un componente en diseño de software?",
+            "Lv_respuestas": [
+                {"Lv_texto": "Una clase dentro de una aplicación", "Lb_esCorrecta": false},
+                {"Lv_texto": "Una línea de código", "Lb_esCorrecta": false},
+                {"Lv_texto": "Una librería externa", "Lb_esCorrecta": false},
+                {"Lv_texto": "Una unidad modular e independiente dentro de un sistema", "Lb_esCorrecta": true}
+            ]
+        },
+        {
+            "Lv_categoria": "Arquitectura y Diseño de Software",
+            "Ln_nivel": 1,
+            "Lv_pregunta": "¿Qué es el principio de segregación de interfaces en SOLID?",
+            "Lv_respuestas": [
+                {"Lv_texto": "Una clase debe implementar todas las interfaces", "Lb_esCorrecta": false},
+                {"Lv_texto": "Las interfaces deben ser únicas para cada clase", "Lb_esCorrecta": false},
+                {"Lv_texto": "Una interfaz debe ser siempre abstracta", "Lb_esCorrecta": false},
+                {"Lv_texto": "Una clase no debe estar obligada a implementar interfaces que no usa", "Lb_esCorrecta": true}
+            ]
+        },
+        {
+            "Lv_categoria": "Arquitectura y Diseño de Software",
+            "Ln_nivel": 1,
+            "Lv_pregunta": "¿Qué representa el patrón de diseño 'Builder'?",
+            "Lv_respuestas": [
+                {"Lv_texto": "Un patrón que establece comunicación entre clases", "Lb_esCorrecta": false},
+                {"Lv_texto": "Un patrón que simplifica el diseño de bases de datos", "Lb_esCorrecta": false},
+                {"Lv_texto": "Un patrón que controla el acceso a los datos", "Lb_esCorrecta": false},
+                {"Lv_texto": "Un patrón que facilita la construcción de objetos complejos paso a paso", "Lb_esCorrecta": true}
+            ]
+        },
+        {
+            "Lv_categoria": "Arquitectura y Diseño de Software",
+            "Ln_nivel": 1,
+            "Lv_pregunta": "¿Qué es un servicio en una arquitectura de microservicios?",
+            "Lv_respuestas": [
+                {"Lv_texto": "Una unidad de prueba", "Lb_esCorrecta": false},
+                {"Lv_texto": "Un proceso en segundo plano", "Lb_esCorrecta": false},
+                {"Lv_texto": "Un servidor dedicado", "Lb_esCorrecta": false},
+                {"Lv_texto": "Una pequeña unidad funcional e independiente", "Lb_esCorrecta": true}
+            ]
+        },
+        {
+            "Lv_categoria": "Arquitectura y Diseño de Software",
+            "Ln_nivel": 1,
+            "Lv_pregunta": "¿Qué es un 'middleware' en diseño de software?",
+            "Lv_respuestas": [
+                {"Lv_texto": "Un lenguaje de programación", "Lb_esCorrecta": false},
+                {"Lv_texto": "Un protocolo de red", "Lb_esCorrecta": false},
+                {"Lv_texto": "Una base de datos", "Lb_esCorrecta": false},
+                {"Lv_texto": "Un software que facilita la comunicación entre aplicaciones", "Lb_esCorrecta": true}
+            ]
+        },
+        {
+            "Lv_categoria": "Arquitectura y Diseño de Software",
+            "Ln_nivel": 1,
+            "Lv_pregunta": "¿Qué describe el principio KISS en diseño de software?",
+            "Lv_respuestas": [
+                {"Lv_texto": "Keep It Software Simple", "Lb_esCorrecta": false},
+                {"Lv_texto": "Keep Integrated Systems Separate", "Lb_esCorrecta": false},
+                {"Lv_texto": "Keep It Software Secure", "Lb_esCorrecta": false},
+                {"Lv_texto": "Keep It Simple, Stupid", "Lb_esCorrecta": true}
+            ]
+        },
+        {
+            "Lv_categoria": "Arquitectura y Diseño de Software",
+            "Ln_nivel": 1,
+            "Lv_pregunta": "¿Qué es el patrón de diseño 'Decorator'?",
+            "Lv_respuestas": [
+                {"Lv_texto": "Un patrón que controla el flujo de datos", "Lb_esCorrecta": false},
+                {"Lv_texto": "Un patrón que restringe el uso de interfaces", "Lb_esCorrecta": false},
+                {"Lv_texto": "Un patrón que mejora la eficiencia del código", "Lb_esCorrecta": false},
+                {"Lv_texto": "Un patrón que añade funcionalidad adicional a un objeto", "Lb_esCorrecta": true}
+            ]
+        },
+        {
+            "Lv_categoria": "Arquitectura y Diseño de Software",
+            "Ln_nivel": 1,
+            "Lv_pregunta": "¿Qué es la arquitectura hexagonal?",
+            "Lv_respuestas": [
+                {"Lv_texto": "Una arquitectura de bases de datos", "Lb_esCorrecta": false},
+                {"Lv_texto": "Una arquitectura de aplicaciones móviles", "Lb_esCorrecta": false},
+                {"Lv_texto": "Una arquitectura orientada a servicios web", "Lb_esCorrecta": false},
+                {"Lv_texto": "Una arquitectura que aísla la lógica del dominio del software", "Lb_esCorrecta": true}
+            ]
+        }
+    
+    
+]
